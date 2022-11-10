@@ -1,0 +1,116 @@
+.sider{
+    background-color: yellowgreen;
+    margin-top: 3%;
+    left:3%;
+    /* height: 30vh; */
+}
+
+.sider2{
+    background-color: yellowgreen;
+    margin-top: 1%;
+    left:3%;
+    /* height: 30vh; */
+}
+
+.navi{
+    font-size: 20px;
+    margin-left: 15%;
+    
+}
+.selfie{
+    background-color: pink;
+    width: 90%;
+    height: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.name{
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.friendname{
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+.status{
+    margin-top: -15%;
+    margin-left: 5%;
+    font-size: 15px;
+    margin-bottom: 10%;
+}
+.newstatus{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    width: 90%;
+    background-color: pink;
+}
+.update{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+}
+.postbutton{
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 45%;
+}
+.newpost{
+    background-color: yellowgreen;
+    /* height: 30%; */
+    top: 4.5%;
+}
+
+.avatar-uploader{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.postinput{
+    background-color: pink;
+    /* width: 550px;
+    margin-top: 3%;
+    margin-left: -40%;
+    margin-right: 3%;
+    height: 82%; */
+}
+
+.search{
+
+}
+
+.myposts{
+    background-color: pink;
+    top:2%;
+    left:16%;
+    position: absolute;
+    width: 30vw;
+}
+
+.postpic{
+    background-color: yellow;
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.postword{
+    margin-top: 5%;
+    margin-left: 3%;
+    font-size: 15px;
+    margin-bottom: 10%;
+}
+.postbutton{
+    margin-top:5%;
+    margin-left: 5%;
+    width:30%;
+    margin-bottom: 5%;
+}

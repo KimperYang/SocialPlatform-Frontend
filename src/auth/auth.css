@@ -1,0 +1,24 @@
+/* .Form{
+    width: 50vw;
+} */
+.login{
+    /* background-color: pink; */
+    width:500px;
+    height:300px;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    
+}
+.Button{
+    width:165px;
+    left:80%;
+}
+/* .login{
+    left:50%;
+    right:50%;
+    width: 500px;
+    transform: translate(-50%,-50%);
+    position: absolute;
+} */

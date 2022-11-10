@@ -1,0 +1,14 @@
+.reg{
+    /* background-color: pink; */
+    width:500px;
+    height:300px;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    
+}
+.Button{
+    width:165px;
+    left:80%;
+}
